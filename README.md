@@ -1,1 +1,1 @@
-atualizações no futuro ::hourglass_flowing_sand:
+atualizações no futuro :hourglass_flowing_sand:
