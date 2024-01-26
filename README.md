@@ -1,4 +1,4 @@
-### Oi! Eu sou Márcio Mingante.
+# Oi! Eu sou Márcio Mingante.
 
 ## Socials and contacts
 
@@ -8,7 +8,9 @@
   <a href="https://www.linkedin.com/in/marcio-mingante" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Márcio's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcioMingante&show_icons=true&theme=radical)
+#
+
+![Márcio's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcioMingante&show_icons=true&theme=tokyonight)
 
 ## Technologies that i work with
 
