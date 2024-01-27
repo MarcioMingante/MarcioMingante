@@ -1,4 +1,7 @@
-## Oi! Eu sou Márcio Mingante.
+# Hello! I'm Márcio Mingante.
+
+![Márcio's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcioMingante&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioMingante&hide_progress=false&layout=compact&theme=tokyonight)
 
 ## Technologies that i work with
 
