@@ -1,4 +1,8 @@
-# Hello! I'm Márcio Mingante.
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MarcioMingante.MarcioMingante" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+I'm+Márcio+Mingante.;" />
+</h1>
 
 ![Márcio's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcioMingante&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioMingante&hide_progress=false&layout=compact&theme=tokyonight)
